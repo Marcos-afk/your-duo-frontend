@@ -1,3 +1,8 @@
+<div align="center">
+	<img src="src/assets/exec-01.png" width="700" alt="exec-01"/>
+  <img src="src/assets/exec-02.png" width="700" alt="exec-02"/>
+</div>
+
 ## :dart: Objetivo
 
 Projeto frontend de estudos desenvolvido durante aulas do Nlw.
